@@ -1,0 +1,16 @@
+
+div .pivotGenieRemove{
+	color: red;
+	cursor:pointer;
+	font-family: Arial;
+	font-weight: bold;
+	text-decoration: underline;
+	
+	
+}
+
+div .pivotGenieContainer{
+	border-radius: 3px;
+    border: 1px solid #336699;
+    padding: 2px;
+}
